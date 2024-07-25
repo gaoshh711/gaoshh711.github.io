@@ -1,7 +1,4 @@
 source 'https://rubygems.org'
-
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
@@ -21,7 +18,7 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-#    gem 'mini_racer'
+    gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
 end
