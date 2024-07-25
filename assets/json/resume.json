@@ -12,11 +12,8 @@
       "countryCode": "CN",
       "region": "Shanghai"
     },
-    "profiles": [
-
-    ]
+    "profiles": []
   },
-
 
   "education": [
     {
@@ -42,14 +39,12 @@
       "date": "2023-12-01",
       "awarder": "ShanghaiTech University"
     },
-    {      "title": "ChinaVIS Data Challenge 2023 Third Price",
-      "date": "2023-07-03",
-      "awarder": "ChinaVIS Committee"},
-      {
-         "title": "Merit Student of ShanghaiTech University in 2021 - 2022",
+    { "title": "ChinaVIS Data Challenge 2023 Third Price", "date": "2023-07-03", "awarder": "ChinaVIS Committee" },
+    {
+      "title": "Merit Student of ShanghaiTech University in 2021 - 2022",
       "date": "2022-11-01",
       "awarder": "ShanghaiTech University"
-      }
+    }
   ],
 
   "publications": [
@@ -58,24 +53,21 @@
       "publisher": "TVCG/VIS 2023",
       "releaseDate": "2023-06-07",
       "url": "https://ieeexplore.ieee.org/document/10295389",
-      "summary":"Yuchen Wu, Yuansong Xu, Shenghan Gao, Xingbo Wang, Wenkai Song, Zhiheng Nie, Xiaomeng Fan, Quan Li"
+      "summary": "Yuchen Wu, Yuansong Xu, Shenghan Gao, Xingbo Wang, Wenkai Song, Zhiheng Nie, Xiaomeng Fan, Quan Li"
     }
   ],
   "skills": [
     {
       "name": "Program Language",
-     
+
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-"Javascript", "Python", "C", "C++", "Ruby", "SQL"
-      ]
-    },  {
+      "keywords": ["Javascript", "Python", "C", "C++", "Ruby", "SQL"]
+    },
+    {
       "name": "Framework",
-     
+
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-"Vue", "D3", "jQuery", "BootStrap", "PyTorch", "Rails"
-      ]
+      "keywords": ["Vue", "D3", "jQuery", "BootStrap", "PyTorch", "Rails"]
     }
   ],
   "languages": [
@@ -94,12 +86,7 @@
     {
       "name": "Computer Science",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Human Computer Interaction",
-        "Data Visualization",
-        "Social Computing",
-        "Data Mining"
-      ]
+      "keywords": ["Human Computer Interaction", "Data Visualization", "Social Computing", "Data Mining"]
     }
   ],
 
