@@ -92,12 +92,15 @@
 
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Which Comment should I Look? A Data Driven Analysis on Reviews from the Developers' Standpoint",
+      "summary": "Shenghan Gao, Mingzheng Wu, Supervised by Prof. Haipeng Zhang",
+      "highlights": [
+        "Lead a quantitative study on feature importance from developers' perspective, taking Steam as the user scenarios.",
+        "Propose two indicators to evaluate the value of comments from the developers' corresponding reviews.",
+        "Utilize traditional methods, like Pearson coefficient, and recommendation models with XAI techniques, like SHAP, to quantize the importance of features."
+      ],
+      "startDate": "2024-02-01",
+      "endDate": "2024-06-01"
     }
   ]
 }
