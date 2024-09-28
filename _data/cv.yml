@@ -1,12 +1,14 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Shenghan Gao
+    - name: Email
+      value: gaoshh1@gmail.com
+    - name: Phone
+      value: +(86) 139-1849-9571
+    - name: Bio
+      value: "Shenghan is a 4th CS B.Eng. supervised by <a href='https://faculty.sist.shanghaitech.edu.cn/liquan/'> Prof. Quan Li </a>. His research interests focus on Data-driven Approaches to Human-centered Computing"
 
 - title: Education
   type: time_table
@@ -21,12 +23,6 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
