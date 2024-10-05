@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: icon.png
+  image: person.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 1A-413, SIST, ShanghaiTech</p>
