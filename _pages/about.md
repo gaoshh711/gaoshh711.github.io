@@ -25,4 +25,4 @@ My research interests focus on **Data-driven Approaches to Human-centered Comput
 
 I am also an crazy fan on histroy and strategy games like Paradox, enjoying Europa Universalis IV!
 
-<span style="color:red">I am looking for phd or research master opportunities now:3! </span>
+<span style="color:red">I am looking for Ph.D or thesis-track master programs opportunities now:3! </span>
