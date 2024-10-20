@@ -23,6 +23,6 @@ Hi, I'm a CS senior undergraduate at [School of Information and Technology](http
 
 My research focuses on **Human-Centered Computing**, with the goal of understanding and modeling human behavior and societal dynamics influenced by technology. I employ a mix of methods, such as interviews and statistical analysis, to explore these dynamics from various perspectives, including industrial structures and social media. Ultimately, I aim to contribute to the development of technology that positively impacts society. At ShanghaiTech, I am a member of the [ViSeer Lab](https://faculty.sist.shanghaitech.edu.cn/liquan/) under the supervision of Prof. [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/), where I actively participate in research projects on **HCI**, **Visual Analytics**, and **Social Computing**.
 
-I am also an crazy fan on histroy and strategy games like Paradox, enjoying Europa Universalis IV!
+I am also a crazy fan on histroy and strategy games like Paradox, enjoying Europa Universalis IV!
 
 <span style="color:red">I am looking for Ph.D or thesis-track master programs opportunities now:3! </span>
