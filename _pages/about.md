@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm a 4th CS undergraduate at [School of Information and Technology](https://sist.shanghaitech.edu.cn/sist_en/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/). In Fall 2023, I was an exchange student at [University of California, Berkeley](https://www.berkeley.edu/).
+Hi, I'm a 4th-year CS undergraduate at [School of Information and Technology](https://sist.shanghaitech.edu.cn/sist_en/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/). In Fall 2023, I was an exchange student at [University of California, Berkeley](https://www.berkeley.edu/).
 
 My research interests focus on **Human-Centered Computing**, with the goal of understanding and modeling human behavior and societal dynamics influenced by technology. I employ a mix of methods, such as interviews and ML, to explore these dynamics from various perspectives, including industrial structures and social media. Ultimately, I aim to contribute to the development of technology that positively impacts society.
 
