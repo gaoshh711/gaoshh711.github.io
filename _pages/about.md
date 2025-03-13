@@ -26,5 +26,3 @@ My research interests focus on **Human-Centered Computing**, with the goal of un
 At ShanghaiTech, I am a research intern in [ViSeer LAB](https://faculty.sist.shanghaitech.edu.cn/liquan/) supervised by Prof. [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/), where I actively participate in research projects on **HCI**, **Data Visualization**, and **Social Computing**.
 
 I am also a crazy fan on histroy and strategy games like Paradox, enjoying Europa Universalis IV!
-
-<span style="color:red">I am looking for Ph.D or thesis-track master programs opportunities now:3! </span>
