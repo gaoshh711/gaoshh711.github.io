@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: :tada: :tada: *Influence Maximization in Temporal Social Networks with a Cold-start Problem* has been accepted by ICWSM 2025!
+:tada: :tada: :tada: _Influence Maximization in Temporal Social Networks with a Cold-start Problem_ has been accepted by ICWSM 2025!
