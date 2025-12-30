@@ -1,2 +1,8 @@
 "TVCG/VIS":
-  color: "#009f36"
+  color: "#90b8c0"
+"TVCG":
+  color: "#b0d8e8"
+"UIST":
+  color: "#d87868"
+"ICWSM":
+  color: "#c8d786"
