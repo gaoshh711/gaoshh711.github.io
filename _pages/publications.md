@@ -13,6 +13,10 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<p style="font-size: 0.9em; color: #555;">
+* indicates authors who contributed equally to this research.
+</p>
+
 <div class="publications">
 
 {% bibliography %}
