@@ -355,6 +355,7 @@ filtered_bibtex_keywords:
     award,
     award_name,
     bibtex_show,
+    doi,
     blog,
     code,
     html,
