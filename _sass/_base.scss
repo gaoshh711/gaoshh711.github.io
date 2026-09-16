@@ -40,7 +40,7 @@ table.table a {
   color: var(--global-theme-color);
 
   &:hover {
-    color: var(--global-theme-color);
+    color: var(--global-hover-color);
     text-decoration: underline;
   }
 
@@ -194,6 +194,30 @@ ul.task-list input[type="checkbox"] {
 }
 
 // Profile
+
+.post-about {
+  .post-title,
+  .post-title span,
+  article > h2 {
+    color: var(--global-theme-color);
+  }
+
+  article > h2 {
+    border-left: 3px solid var(--global-accent-color);
+    padding-left: 0.65rem;
+  }
+
+  .more-info p,
+  .news th {
+    color: var(--global-text-color-light);
+  }
+
+  a:focus-visible,
+  button:focus-visible {
+    outline: 2px solid var(--global-theme-color);
+    outline-offset: 3px;
+  }
+}
 
 .profile {
   width: 100%;
@@ -501,8 +525,8 @@ footer.fixed-bottom {
     color: var(--global-footer-link-color);
 
     &:hover {
-      color: var(--global-theme-color);
-      text-decoration: none;
+      color: var(--global-footer-link-color);
+      text-decoration: underline;
     }
   }
 }
