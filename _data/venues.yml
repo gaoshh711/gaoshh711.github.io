@@ -1,12 +1,23 @@
 "TVCG/VIS":
-  color: "#90b8c0"
+  color: "#8FB9C1"
 "TVCG":
-  color: "#b0d8e8"
+  color: "#8FB9C1"
+
 "UIST":
-  color: "#d87868"
+  color: "#D98F83"
+"UIST Poster":
+  color: "#D98F83"
+
 "IUI":
-  color: "#f4a261"
+  color: "#E6A873"
+
 "ICWSM":
-  color: "#c8d786"
+  color: "#B9C98A"
+
+"DIS":
+  color: "#B7A3CB"
+
 "CHI":
-  color: "#f9c74f"
+  color: "#E7C86E"
+"CHI EA":
+  color: "#E7C86E"
