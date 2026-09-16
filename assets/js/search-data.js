@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
-          title: "cv",
+  },{id: "nav-blog",
+          title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -37,14 +37,42 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
+        },{id: "nav-cv",
+          title: "cv",
+          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/cv/";
           },
-        },{id: "post-study-notes-fundamentals-of-information-theory",
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Course materials, schedules, and resources for classes taught.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
+        },{id: "nav-people",
+          title: "people",
+          description: "members of the lab or group",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
+        },{id: "dropdown-bookshelf",
+              title: "bookshelf",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/books/";
+              },
+            },{id: "dropdown-blog",
+              title: "blog",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/blog/";
+              },
+            },{id: "post-study-notes-fundamentals-of-information-theory",
         
           title: "Study Notes Fundamentals of Information Theory",
         
@@ -55,7 +83,12 @@ ninja.data = [{
             window.location.href = "/blog/2024/ICWSM2025/";
           
         },
-      },{id: "news-tada-tada-tada-liveretro-visual-analytics-for-strategic-retrospect-in-livestream-e-commerce-has-been-accepted-by-vis-2023",
+      },{id: "books-the-godfather",
+          title: 'The Godfather',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_godfather/";
+            },},{id: "news-tada-tada-tada-liveretro-visual-analytics-for-strategic-retrospect-in-livestream-e-commerce-has-been-accepted-by-vis-2023",
           title: ':tada: :tada: :tada: LiveRetro: Visual Analytics for Strategic Retrospect in Livestream E-Commerce has...',
           description: "",
           section: "News",},{id: "news-tada-tada-tada-from-requirement-to-solution-unveiling-problem-driven-design-patterns-in-visual-analytics-has-been-accepted-by-tvcg-2025",
@@ -72,6 +105,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-tada-tada-tada-my-co-first-author-full-paper-commsense-facilitating-bias-aware-and-reflective-navigation-of-online-comments-for-rational-judgment-has-been-conditionally-accepted-by-chi-2026-congrats-to-yang-ouyang-and-prof-quan",
           title: ':tada: :tada: :tada: My co-first-author full paper CommSense: Facilitating Bias-Aware and Reflective Navigation...',
+          description: "",
+          section: "News",},{id: "news-tada-tada-tada-my-first-first-author-full-paper-scsimulator-an-exploratory-visual-analytics-framework-for-partner-selection-in-supply-chains-through-llm-driven-multi-agent-simulation-has-been-formally-accepted-by-iui-2026-huge-thanks-to-my-supervisor-prof-quan-and-all-co-authors-for-their-support-and-guidance-throughout-this-journey",
+          title: ':tada: :tada: :tada: My first first-author full paper SCSimulator: An Exploratory Visual Analytics...',
           description: "",
           section: "News",},{id: "projects-divas-a-visual-analysis-system-for-vehicle-driver-profiles",
           title: 'DIVAS: A Visual Analysis System for Vehicle Driver Profiles',
