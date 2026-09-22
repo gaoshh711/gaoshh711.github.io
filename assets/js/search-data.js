@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-study-notes-fundamentals-of-information-theory",
+        },{id: "post-计算机考研经验分享-数学一-408-英语一与政治复习安排",
+        
+          title: "计算机考研经验分享：数学一、408、英语一与政治复习安排",
+        
+        description: "高胜寒的计算机考研经验分享：2025年5月至12月备考 CS 学硕（081200），初试总分396分。整理数学一、408、英语一、政治的复习时间线、真题练习与错题复盘方法，附完整分享 PDF。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/kaoyan-experience/";
+          
+        },
+      },{id: "post-study-notes-fundamentals-of-information-theory",
         
           title: "Study Notes Fundamentals of Information Theory",
         
