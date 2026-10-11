@@ -9,12 +9,13 @@ last_name: Gao
 contact_note: >
   gaoshh1@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Shenghan Gao is an M.S.E. student at ShanghaiTech University researching human-centered computing,
+  human-AI collaboration, human-computer interaction, and data visualization.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: HCI, Data Visualization, Social Computing # add your own keywords or leave empty
+keywords: Human-Centered Computing, Human-AI Collaboration, HCI, Data Visualization, Social Computing
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

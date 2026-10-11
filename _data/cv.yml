@@ -1,97 +1,221 @@
+---
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
+  - name: Full Name
+    value: Shenghan Gao
+  - name: Position
+    value: M.S.E. Student in Computer Science and Technology
+  - name: Affiliation
+    value: School of Information Science and Technology, ShanghaiTech University
+  - name: Supervisor
+    value: <a href="https://faculty.sist.shanghaitech.edu.cn/liquan/">Prof. Quan Li</a>
+  - name: Email
+    value: <a href="mailto:gaoshh1@gmail.com">gaoshh1@gmail.com</a>
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
+  - title: M.S.E. in Computer Science and Technology
+    institution: ShanghaiTech University
+    location: Shanghai, China
+    year: 2026.09 - Present
+    description:
+    - 'Supervisor: Prof. Quan Li'
+    - 'Research interests: Human-Centered Computing'
+  - title: B.Eng. in Computer Science and Technology
+    institution: ShanghaiTech University
+    location: Shanghai, China
+    year: 2021.09 - 2025.06
+    description:
+    - 'GPA: 3.65 / 4.00; Major GPA: 3.95 / 4.00'
+    - 'Graduate Examination Score: 396 / 500'
+    - 'Research interests: Human-Centered Computing'
+  - title: Exchange Student in EECS
+    institution: University of California, Berkeley
+    location: Berkeley, CA
+    year: 2023.08 - 2023.12
+    description:
+    - 'GPA: 4.00 / 4.00'
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+  - title: Research Intern
+    institution: ViSeer LAB, SIST, ShanghaiTech University
+    location: Shanghai, China
+    year: 2022.12 - Present
+    description:
+    - Supervised by Prof. Quan Li
+    - Human-Computer Interaction, Data Visualization, and Human-AI Collaboration
+    - I combine qualitative interviews and quantitative behavioral analysis to understand
+      users' mental models, and design interactive systems that manage cognitive load
+      and support human decision-making. My research focuses on human-centered computing
+      and human-AI collaboration to enhance human well-being.
+- title: Selected Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
+  - title: '<a href="https://doi.org/10.1145/3742413.3789061">SCSimulator: An Exploratory
+      Visual Analytics Framework for Partner Selection in Supply Chains through LLM-driven
+      Multi-Agent Simulation</a>'
+    year: 2025.01 - 2026.02
+    maindescription: First author; IUI 2026.
+    description:
+    - Proposed a framework integrating LLM-driven multi-agent simulation with human-in-the-loop
+      collaboration for supply-chain partner selection.
+    - Designed a visual analytics system supporting dynamic network exploration, agent-level
+      intervention, and simulation path branching.
+    - Integrated predictive modeling, SHAP-based explainable AI, and chain-of-thought
+      reasoning to explain agent decisions and network impacts.
+    - Evaluated the system through quantitative simulation evaluation, a usage scenario,
+      and expert user studies.
+  - title: '<a href="https://doi.org/10.1145/3772318.3790530">CommSense: Facilitating
+      Bias-Aware and Reflective Navigation of Online Comments for Rational Judgment</a>'
+    year: 2025.06 - 2026.01
+    maindescription: Co-first author; CHI 2026.
+    description:
+    - 'Investigated a four-stage judgment process: initial framing, evidence foraging,
+      belief updating, and synthesis and judgment.'
+    - Led a co-design workshop to derive four design requirements for bias mitigation.
+    - Designed and implemented overview visualization, structured annotation, reflective
+      prompts, and synthesis scaffolding.
+    - Conducted user studies demonstrating improved bias awareness, reflective reasoning,
+      and evidence-based judgment while maintaining high usability.
+  - title: '<a href="https://doi.org/10.1109/TVCG.2025.3538768">From Requirement to
+      Solution: Unveiling Problem-Driven Design Patterns in Visual Analytics</a>'
+    year: 2023.12 - 2024.04
+    maindescription: TVCG 2025.
+    description:
+    - Developed a methodology for meta-analysis of visual analytics research from
+      a problem-driven perspective.
+    - Contributed a solution typology and refined requirement and data typologies
+      to update visual analytics abstraction frameworks.
+    - Represented problem-solving practices through a dense, directed, weighted graph.
+- title: Publications
+  type: list
+  contents:
+  - "<em>* indicates equal contribution.</em>"
+  - 'Shenghan Gao, Junye Wang*, Junjie Xiong*, Yun Jiang, Yun Fang, Qifan Hu, Baolong
+    Liu, Quan Li. <a href="https://doi.org/10.1145/3742413.3789061">SCSimulator: An
+    Exploratory Visual Analytics Framework for Partner Selection in Supply Chains
+    through LLM-driven Multi-Agent Simulation</a>. <em>Proceedings of the 31st International
+    Conference on Intelligent User Interfaces</em>, 2026.'
+  - 'Yang Ouyang*, Shenghan Gao*, Ruichuan Wang, Hailiang Zhu, Yuheng Shao, Xiaoyu
+    Gu, Quan Li. <a href="https://doi.org/10.1145/3772318.3790530">CommSense: Facilitating
+    Bias-Aware and Reflective Navigation of Online Comments for Rational Judgment</a>.
+    <em>Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems</em>,
+    2026.'
+  - 'Yuchen Wu, Shenghan Gao, Shizhen Zhang, Xiaofeng Dou, Xingbo Wang, Quan Li. <a
+    href="https://doi.org/10.1109/TVCG.2025.3538768">From Requirement to Solution:
+    Unveiling Problem-Driven Design Patterns in Visual Analytics</a>. <em>IEEE Transactions
+    on Visualization and Computer Graphics</em>, 2025.'
+  - 'Longfei Chen, Shenghan Gao, Shiwei Wang, Ken Lin, Yun Wang, Yan Lu, Quan Li.
+    <a href="https://doi.org/10.1145/3800645.3812906">When Systems Take Initiative:
+    A Design Framework for Adaptive, Mixed-initiative Database Querying</a>. <em>Proceedings
+    of the 2026 Designing Interactive Systems Conference</em>, 2026.'
+  - 'Yang Ouyang, Shenghan Gao, Yuheng Shao, Junjie Xiong, Xiyuan Wang, Quan Li. <a
+    href="https://doi.org/10.1145/3772363.3798388">VidSense: Facilitating Incremental
+    Externalization and Knowledge Consolidation via Canvas-Based Interactions in Video
+    Learning</a>. <em>Proceedings of the Extended Abstracts of the 2026 CHI Conference
+    on Human Factors in Computing Systems</em>, 2026.'
+  - 'Longfei Chen, Shenghan Gao, Shiwei Wang, Ken Lin, Yun Wang, Quan Li. <a href="https://doi.org/10.1145/3746058.3758982">QueryGenie:
+    Making LLM-Based Database Querying Transparent and Controllable</a>. <em>Adjunct
+    Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology</em>,
+    2025.'
+  - 'Yuchen Wu, Yuansong Xu, Shenghan Gao, Xingbo Wang, Wenkai Song, Zhiheng Nie,
+    Xiaomeng Fan, Quan Li. <a href="https://doi.org/10.1109/TVCG.2023.3326911">LiveRetro:
+    Visual Analytics for Strategic Retrospect in Livestream E-Commerce</a>. <em>IEEE
+    Transactions on Visualization and Computer Graphics</em>, 2023.'
+  - 'Laixin Xie, Ying Zhang, Xiyuan Wang, Shiyi Liu, Shenghan Gao, Xingxing Xing,
+    Wei Wan, Haipeng Zhang, Quan Li. <a href="https://doi.org/10.1609/icwsm.v19i1.35919">Influence
+    Maximization in Temporal Social Networks with a Cold-Start Problem: A Supervised
+    Approach</a>. <em>Proceedings of the International AAAI Conference on Web and
+    Social Media</em>, 2025.'
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
+  - title: Merit Student (2023-2024)
+    institution: ShanghaiTech University
+    year: '2024.12'
+  - title: Special Scholarship for the Undergraduate 3+1 Overseas Exchange Program
+      (2023-2024)
+    institution: ShanghaiTech University
+    year: '2024.06'
+  - title: Merit Student (2022-2023)
+    institution: ShanghaiTech University
+    year: '2023.12'
+  - title: Third Prize, ChinaVis Data Challenge 2023
+    institution: ChinaVis
+    year: '2023.07'
+  - title: Merit Student (2021-2022)
+    institution: ShanghaiTech University
+    year: '2022.11'
+- title: Academic Service
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
+  - title: Conference Reviewer
+    institution: ACM CHI 2027
+    year: '2026.10'
+  - title: Conference Reviewer
+    institution: VINCI 2026 (Technical Track)
+    year: '2026.08'
+  - title: Conference Reviewer
+    institution: ACM CHI 2026 (Poster Track)
+    year: '2026.02'
+- title: Teaching Experience
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+  - title: AI4SCA - AI for Faculty (SCA)
+    institution: ShanghaiTech University
+    year: 2025.09 - 2026.01
+    description:
+    - Teaching Assistant
+  - title: GEHA 1003 - Introduction to World Civilizations
+    institution: ShanghaiTech University
+    year: 2024.09 - Present
+    description:
+    - Teaching Assistant
+  - title: GEHA 1101 - Cultural Interaction between the East and West along the Silk
+      Road &amp; Maritime Silk Road
+    institution: ShanghaiTech University
+    year: 2024.09 - 2025.01
+    description:
+    - Teaching Assistant
+  - title: GEHA 1242 - Human-Animal Interaction
+    institution: ShanghaiTech University
+    year: '2024.07'
+    description:
+    - Teaching Assistant
+  - title: ARTS 1422 - Data Visualization
+    institution: ShanghaiTech University
+    year: 2024.02 - 2024.06
+    description:
+    - Teaching Assistant
+- title: Extracurricular Activities
+  type: time_table
+  contents:
+  - title: Postgraduate Exam Preparation Support Service
+    institution: ShanghaiTech University
+    year: 2026.09.23
+  - title: Student Mentor
+    institution: Shangdao College
+    year: 2021.09 - 2025.06
+  - title: Welcome Party Volunteer
+    institution: ShanghaiTech University
+    year: '2021.09'
+- title: Skills
+  type: map
+  contents:
+  - name: Programming Languages
+    value: JavaScript, Python, C, C++, Ruby, SQL
+  - name: Frameworks
+    value: Vue, D3, jQuery, Bootstrap, Rails
+  - name: 3D Modeling
+    value: Blender, Inventor, SolidWorks
+  - name: Concepts
+    value: Human-Computer Interaction, Data Visualization, Data Mining, Agile Development
+- title: Languages
+  type: map
+  contents:
+  - name: Mandarin
+    value: Native
+  - name: English
+    value: 'TOEFL: 102'
