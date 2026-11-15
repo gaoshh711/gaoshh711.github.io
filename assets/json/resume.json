@@ -25,10 +25,7 @@
       "studyType": "M.S.E.",
       "area": "Computer Science and Technology",
       "startDate": "2026-09",
-      "courses": [
-        "Supervisor: Prof. Quan Li",
-        "Research interests: Human-Centered Computing"
-      ]
+      "courses": ["Supervisor: Prof. Quan Li", "Research interests: Human-Centered Computing"]
     },
     {
       "institution": "ShanghaiTech University",
@@ -39,11 +36,7 @@
       "startDate": "2021-09",
       "endDate": "2025-06",
       "score": "3.65 / 4.00",
-      "courses": [
-        "GPA: 3.65 / 4.00; Major GPA: 3.95 / 4.00",
-        "Graduate Examination Score: 396 / 500",
-        "Research interests: Human-Centered Computing"
-      ]
+      "courses": ["GPA: 3.65 / 4.00; Major GPA: 3.95 / 4.00", "Graduate Examination Score: 396 / 500", "Research interests: Human-Centered Computing"]
     },
     {
       "institution": "University of California, Berkeley",
@@ -54,9 +47,7 @@
       "startDate": "2023-08",
       "endDate": "2023-12",
       "score": "4.00 / 4.00",
-      "courses": [
-        "GPA: 4.00 / 4.00"
-      ]
+      "courses": ["GPA: 4.00 / 4.00"]
     }
   ],
   "work": [
@@ -67,10 +58,7 @@
       "location": "Shanghai, China",
       "startDate": "2022-12",
       "summary": "I combine qualitative interviews and quantitative behavioral analysis to understand users' mental models, and design interactive systems that manage cognitive load and support human decision-making. My research focuses on human-centered computing and human-AI collaboration to enhance human well-being.",
-      "highlights": [
-        "Supervised by Prof. Quan Li",
-        "Human-Computer Interaction, Data Visualization, and Human-AI Collaboration"
-      ]
+      "highlights": ["Supervised by Prof. Quan Li", "Human-Computer Interaction, Data Visualization, and Human-AI Collaboration"]
     }
   ],
   "projects": [
@@ -268,41 +256,19 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [
-        "JavaScript",
-        "Python",
-        "C",
-        "C++",
-        "Ruby",
-        "SQL"
-      ]
+      "keywords": ["JavaScript", "Python", "C", "C++", "Ruby", "SQL"]
     },
     {
       "name": "Frameworks",
-      "keywords": [
-        "Vue",
-        "D3",
-        "jQuery",
-        "Bootstrap",
-        "Rails"
-      ]
+      "keywords": ["Vue", "D3", "jQuery", "Bootstrap", "Rails"]
     },
     {
       "name": "3D Modeling",
-      "keywords": [
-        "Blender",
-        "Inventor",
-        "SolidWorks"
-      ]
+      "keywords": ["Blender", "Inventor", "SolidWorks"]
     },
     {
       "name": "Concepts",
-      "keywords": [
-        "Human-Computer Interaction",
-        "Data Visualization",
-        "Data Mining",
-        "Agile Development"
-      ]
+      "keywords": ["Human-Computer Interaction", "Data Visualization", "Data Mining", "Agile Development"]
     }
   ],
   "languages": [
